@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
 
         {/* Copyright */}
-        <div className="mt-4 md:mt-0 text-gray-400 text-sm text-center md:text-right">
+        <div className=" md:mt-0 text-gray-400 text-sm text-center md:text-right">
           © {new Date().getFullYear()} Digital Vmark Marketing| All Rights Reserved.
         </div>
       </div>
